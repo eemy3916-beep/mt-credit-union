@@ -1,0 +1,1 @@
+import { Card,PageTitle } from "../components/ui"; export function Simple({title,children}:{title:string;children:string}){return <><PageTitle title={title}/><Card><p className="text-slate-500">{children}</p></Card></>}

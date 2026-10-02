@@ -1,0 +1,12 @@
+{
+  "name": "M.&T Credit Union",
+  "short_name": "M.&T Credit Union",
+  "description": "Fictional NONa+ financial experience.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#0d1714",
+  "icons": [
+    {"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
